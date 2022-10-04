@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "331496385192",
+    "project_id": "meeting-45b97",
+    "storage_bucket": "meeting-45b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331496385192:android:f5096ee7e8075377a5309d",
+        "android_client_info": {
+          "package_name": "com.harmonics.moimbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331496385192-0kpe1s0dmjvohdc63vehd2rkl3p6tclo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harmonics.moimbox",
+            "certificate_hash": "1d875ccccd5e21d311d306c2ccc97a1aa70f3f72"
+          }
+        },
+        {
+          "client_id": "331496385192-7fcto4kbdb1g4jj6jq7mvvcst0e6qd4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfHf94JZYGKY6s2-pgMF15PtYWEvcfbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331496385192-7fcto4kbdb1g4jj6jq7mvvcst0e6qd4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331496385192-n48j59hogaqh9feo3de1n7nq6373c44s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moimbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
